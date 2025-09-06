@@ -11,6 +11,7 @@ public class CatDebugExample {
 		cat2.setBreed("Indian");
 		cat2.getBreed();
 		cat2.setAge(5);
+		cat2.getAge();
 		System.out.println(cat2.getAge());
 		
 		Cat cat[] = new Cat[2];

@@ -5,6 +5,7 @@ public class Cat {
 	int age;
 	String breed;
 	String name;
+	String color;
 	
 	/**
 	 * @return the age
